@@ -5,10 +5,7 @@ This project aims to develop a machine learning model to predict the likelihood 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -26,5 +23,4 @@ Dataset Source: [Provide source/link if applicable]
 
 To run the project locally, follow these steps:
 
-1. Clone the repository:
-
+1. Clone the repository
